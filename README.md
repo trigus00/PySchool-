@@ -86,18 +86,12 @@ Create a table that breaks down school performances based on average Spending Ra
 * % Passing Reading
 * Overall Passing Rate (Average of the above two)
 
-
-
-
-
-Scores by School Size
+* Scores by School Size
 
 
 Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
 
-
-
-Scores by School Type
+* Scores by School Type
 
 
 Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
@@ -110,7 +104,7 @@ Repeat the above breakdown, but this time group schools based on school type (Ch
 
 ## Contact
 Gustavo Mendoza 
-*Email:trigus00@gmail.com
-*Github: github.com/trigus00
-*LinkedIn: https://www.linkedin.com/in/gustavo-mendoza-36a93b119/
+* Email:trigus00@gmail.com
+* Github: github.com/trigus00
+* LinkedIn: https://www.linkedin.com/in/gustavo-mendoza-36a93b119/
 
